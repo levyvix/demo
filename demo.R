@@ -8,4 +8,4 @@ df = tibble(
 
 
 df %>%
-  mutate(idade = idade*2)
+  mutate(idade = idade*3)
